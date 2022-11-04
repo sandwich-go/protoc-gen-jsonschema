@@ -20,7 +20,7 @@ sem_pre_release_version: # 支持的pre release sem version标记,顺序按照se
   - alpha
   - beta
 sem_initial_version: v0.0.1 #初始版本号
-sem_master_branch_name: master # 主分支名称
+sem_master_branch_name: main # 主分支名称
 sem_version_branch_prefix: version/ # version版本开发分支名称前缀
 sem_initial_branch: 0.1 #初始的分支版本，只需major和minor
 
